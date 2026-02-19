@@ -8,4 +8,6 @@ The inteface of TubuleJ contains 10 modules disposed in two columns.
 
 <img width="419" height="179" alt="TubuleJ_interface" src="https://github.com/user-attachments/assets/47b0ce40-8bb0-4997-b363-62c2acbabed8" />
 
-The left modules can be used to straighten various types of fibers (microtubules, actin, filamentous viruses like TMV, ...), while those on the right are more specific to microtubules.
+The left modules can be used to straighten various types of fibers (microtubules, actin, filamentous viruses like TMV, ...), while those on the right are more specific to microtubules. Nevertheless, the 'Filter fiber' routine can also be used on other types of fibers providing that their diffraction pattern has been adequatly indexed.
+# Pipeline
+

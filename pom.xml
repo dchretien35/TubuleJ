@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+             https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>fr.inria.serpico</groupId>
+    <artifactId>TubuleJ_</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+
+    <name>TubuleJ</name>
+    <description>TubuleJ is a plugin to ImageJ designed to analyze cryo-electron microscope images of fibers. The straightening part of TubuleJ can be used with any type of fiber, while the 3D reconstruction part is specific to microtubules.</description>
+    <url>https://github.com/dchretien35/TubuleJ</url>
+
+    <licenses>
+        <license>
+            <name>GNU General Public License v3.0</name>
+            <url>https://www.gnu.org/licenses/gpl-3.0.html</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Denis Chrétien</name>
+            <url>https://github.com/dchretien35</url>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/dchretien35/TubuleJ</url>
+        <connection>scm:git:https://github.com/dchretien35/TubuleJ.git</connection>
+    </scm>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>net.imagej</groupId>
+            <artifactId>ij</artifactId>
+            <version>1.54f</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <finalName>TubuleJ_</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.3.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <repositories>
+        <repository>
+            <id>imagej.public</id>
+            <url>https://maven.imagej.net/content/groups/public</url>
+        </repository>
+    </repositories>
+</project>

@@ -3,8 +3,10 @@ TubuleJ is a plugin to ImageJ written in Java, designed to analyze cryo-electron
 Contact: denis.chretien@univ-rennes.fr / denis.chretien@cnrs.fr / denis.chretien3@gmail.com
 # Citing TubuleJ
 To cite TubuleJ in your publications, use at least one of the following references:
-Blestel, S., Kervrann, C., & Chretien, D. (2009). A Fourier-based method for detecting curved microtubule centers : Application to straightening of cryo-electron microscope images. 2009 IEEE International Symposium on Biomedical Imaging: From Nano to Macro, 298‑301. https://doi.org/10.1109/ISBI.2009.5193043<img width="470" height="59" alt="image" src="https://github.com/user-attachments/assets/9feccba0-888b-416d-858f-21c2995c2edd" />
-Ku, S., Messaoudi, C., Guyomar, C., Kervrann, C., & Chrétien, D. (2020). Determination of Microtubule Lattice Parameters from Cryo-electron Microscope Images Using TubuleJ. Bio-Protocol, 10(21), Article 21. https://doi.org/10.21769/BioProtoc.3814<img width="470" height="103" alt="image" src="https://github.com/user-attachments/assets/ce483c7e-9783-4016-b241-0713fa1c4d36" />
+
+Blestel, S., Kervrann, C., & Chretien, D. (2009). A Fourier-based method for detecting curved microtubule centers : Application to straightening of cryo-electron microscope images. 2009 IEEE International Symposium on Biomedical Imaging: From Nano to Macro, 298‑301. https://doi.org/10.1109/ISBI.2009.5193043
+
+Ku, S., Messaoudi, C., Guyomar, C., Kervrann, C., & Chrétien, D. (2020). Determination of Microtubule Lattice Parameters from Cryo-electron Microscope Images Using TubuleJ. Bio-Protocol, 10(21), Article 21. https://doi.org/10.21769/BioProtoc.3814
 # Installation
 Download TubuleJ_.jar and install it in the Plugins folder of ImageJ/Fiji. It will be available through Plugins > TubuleJ > TubuleJ.
 An image must be opened before launching TubuleJ.

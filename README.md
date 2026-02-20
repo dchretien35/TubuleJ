@@ -27,4 +27,4 @@ It was developped in Java as a plugin to ImageJ by Sophie Blestel (Inria, Rennes
 
 Implementation of TomoJ to accelerate 3D reconstructions were implemented by Cedric Messaoudi (Institut Curie, Saclay, France)(https://doi.org/10.21769/BioProtoc.3814.
 
-The current version (TubuleJ_V2) was simplified by Denis Chrétien in February 2026 (IGDR, Rennes, France), providing a measure of the subunit repeat corrected by the effect of the protofilament skew angle.
+The current version (TubuleJ_V2) was simplified by Denis Chrétien (IGDR, Rennes, France) in February 2026, providing a measure of the subunit repeat corrected by the effect of the protofilament skew angle.

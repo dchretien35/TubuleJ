@@ -18,7 +18,7 @@ The inteface of TubuleJ contains 10 modules disposed in two columns.
 The left modules can be used to straighten various types of fibers (microtubules, actin, filamentous viruses like TMV, ...), while those on the right are more specific to microtubules. Nevertheless, the 'Filter fiber' routine can also be used on other types of fibers providing that their diffraction pattern has been adequatly indexed.
 
 # Tutorial
-Download the detailed tutorial:
+Download the detailed tutorial TubuleJ_V2.pdf and the test image Tuto.png.
 
 # History
 The scripts underlying TubuleJ were originally written by Denis Chrétien in the 90's (EMBL, Heildeberg, Germany) using the Semper image analysis program (Saxton et al., 1979) that has been discontinued (https://doi.org/10.1016/S0304-3991(79)80044-3). It's original aim was to semi-automatically straighten cryo-EM images of microtubules to obtain sharp diffraction patterns that could be further analyzed in terms of helical parameters of the microtubule lattice.

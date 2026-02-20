@@ -22,8 +22,9 @@ Download the detailed tutorial:
 
 # History
 The scripts underlying TubuleJ were originally written by Denis Chrétien in the 90's (EMBL, Heildeberg, Germany) using the Semper image analysis program (Saxton et al., 1979) that has been discontinued (https://doi.org/10.1016/S0304-3991(79)80044-3). It's original aim was to semi-automatically straighten cryo-EM images of microtubules to obtain sharp diffraction patterns that could be further analyzed in terms of helical parameters of the microtubule lattice.
-It was developped in Java as a plugin to ImageJ by Sophie Blestel (Inria, Rennes, France), giving rise to the first version of TubuleJ with a graphical interface:
 
-Implementation of TomoJ to accelerate 3D reconstructions were implemented by Cedric Messaoudi (Institut Curie, Saclay, France):
+It was developped in Java as a plugin to ImageJ by Sophie Blestel (Inria, Rennes, France), giving rise to the first version of TubuleJ with a graphical interface (https://doi.org/10.1109/ISBI.2009.5193043).
+
+Implementation of TomoJ to accelerate 3D reconstructions were implemented by Cedric Messaoudi (Institut Curie, Saclay, France)(https://doi.org/10.21769/BioProtoc.3814.
 
 The current version (TubuleJ_V2) was simplified by Denis Chrétien in February 2026 (IGDR, Rennes, France), providing a measure of the subunit repeat corrected by the effect of the protofilament skew angle.

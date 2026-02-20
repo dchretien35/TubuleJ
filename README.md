@@ -26,6 +26,6 @@ The scripts underlying TubuleJ were originally written by Denis Chrétien in the
 
 It was developped in Java as a plugin to ImageJ by Sophie Blestel (Inria, Rennes, France), giving rise to the first version of TubuleJ with a graphical user interface (https://doi.org/10.1109/ISBI.2009.5193043).
 
-TomoJ was implemented by Cedric Messaoudi (Institut Curie, Saclay, France) to accelerate 3D reconstructions. (https://doi.org/10.21769/BioProtoc.3814.
+TomoJ was implemented in TubuleJ by Cedric Messaoudi (Institut Curie, Saclay, France) to accelerate 3D reconstructions. (https://doi.org/10.21769/BioProtoc.3814.
 
 The current version (TubuleJ_V2) was simplified by Denis Chrétien (IGDR, Rennes, France) in February 2026, providing a measure of the subunit repeat corrected by the effect of the protofilament skew angle.

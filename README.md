@@ -1,5 +1,8 @@
 # TubuleJ
-TubuleJ is a plugin to ImageJ written in Java, designed to analyze cryo-electron microscope images of fibers. The straightening part of TubuleJ can be used with various types of fibers, while the FFT analysis and 3D reconstruction part is specific to microtubules.
+TubuleJ is a plugin to [ImageJ](https://github.com/imagej) written in Java, designed to analyze cryo-electron microscope images of fibers. The straightening part of TubuleJ can be used with various types of fibers, while the FFT analysis and 3D reconstruction part is specific to microtubules.
+<div align="center">
+<img width="1024" height="386" alt="Git_Image" src="https://github.com/user-attachments/assets/e2d0fe98-efaa-402e-b340-9ac58beb6534" />
+</div>
 
 Contact: denis.chretien@cnrs.fr
 # Citing TubuleJ
@@ -9,7 +12,7 @@ Blestel, S., Kervrann, C., & Chretien, D. (2009). A Fourier-based method for det
 
 Ku, S., Messaoudi, C., Guyomar, C., Kervrann, C., & Chrétien, D. (2020). Determination of Microtubule Lattice Parameters from Cryo-electron Microscope Images Using TubuleJ. Bio-Protocol, 10(21), Article 21. https://doi.org/10.21769/BioProtoc.3814
 # Installation
-Download TubuleJ_.jar and install it in the Plugins folder of ImageJ/Fiji. It will be available through Plugins > TubuleJ > TubuleJ.
+Download TubuleJ_.jar and install it in the Plugins folder of [ImageJ](https://github.com/imagej) or [Fiji](https://github.com/fiji). It will be available through Plugins > TubuleJ > TubuleJ.
 An image must be opened before launching TubuleJ.
 # TubuleJ interface
 The inteface of TubuleJ contains 10 modules disposed in two columns.
